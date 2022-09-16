@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "name": "Dhiraj Laha",
+      "email": "dhiraj.laha@waiin.com",
+      "age": "1996-12-11",
+      "country": "India",
+      "avatar": "https://365webresources.com/wp-content/uploads/2016/09/FREE-PROFILE-AVATARS.png"
+    },
+    {
+      "id": 5,
+      "name": "Shubham Sharma",
+      "email": "shubham.sharma@waiin.com",
+      "age": "1994-11-08",
+      "country": "India",
+      "avatar": "https://thumbs.dreamstime.com/b/male-avatar-icon-flat-style-male-user-icon-cartoon-man-avatar-hipster-vector-stock-91462914.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Harshit Bhorga",
+      "email": "harshit.bhogra@waiin.com",
+      "age": "1998-04-15",
+      "country": "India",
+      "avatar": "https://www.shareicon.net/data/512x512/2016/08/05/806962_user_512x512.png"
+    },
+    {
+      "id": 8,
+      "name": "Prathamesh Joshi",
+      "email": "prathamesh.joshi@waiin.com",
+      "age": "1994-08-07",
+      "country": "India",
+      "avatar": "https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-cartoon-color-simple-male-avatar-png-image_1934459.jpg"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
